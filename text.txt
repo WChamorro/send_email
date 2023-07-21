@@ -1,0 +1,13 @@
+Pasos para enviar emails con python:
+clic en gestionar cuenta google
+1.- habilitar 2 step validation en google
+2.- una vez validado el proceso abrir 2
+ step validation
+3.- clic en contrasenas de applicaciones
+4.- seleecionar app
+5.- ingresar manualmente Python App
+6.- copiar la contrasena generada
+
+usar sudo para ejecutar el script
+
+Verificar link de encuesta: https://docs.google.com/forms/d/e/1FAIpQLSeVsaariUzQiNbpvyPpT3r_90flN5TgNB9EH38UluV7RwWbxg/viewform?usp=sf_link
