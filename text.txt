@@ -1,13 +1,15 @@
-Pasos para enviar emails con python:
-clic en gestionar cuenta google
-1.- habilitar 2 step validation en google
-2.- una vez validado el proceso abrir 2
- step validation
-3.- clic en contrasenas de applicaciones
-4.- seleecionar app
-5.- ingresar manualmente Python App
-6.- copiar la contrasena generada
+Estimad@s graduad@s de la Facultad de Ingeniería Eléctrica y Electrónica (FIEE),
 
-usar sudo para ejecutar el script
 
-Verificar link de encuesta: https://docs.google.com/forms/d/e/1FAIpQLSeVsaariUzQiNbpvyPpT3r_90flN5TgNB9EH38UluV7RwWbxg/viewform?usp=sf_link
+Como parte del proceso de mejora continua de la Oferta Académica de la FIEE, nos permitimos solicitar su gentil colaboración llenando una Encuesta de Seguimiento a Graduados, la cual la podrán encontrar en el siguiente enlace: 	
+
+La encuesta es corta, solo tomará cinco minutos y estará habilitada durante una semana desde la fecha de llegada de este e-mail.
+
+Conocedores de su alto espíritu de colaboración con la Escuela Politécnica Nacional, agradecemos de antemano el tiempo dedicado a nuestra Institución.
+Cordialmente,
+
+
+Comisión de Seguimiento a Graduados de la FIEE 2023A
+
+Este mensaje es una prueba, en caso de notar un error de cualquier índole en la encuesta por favor notificar en respuesta a este e-mail.
+
