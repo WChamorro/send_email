@@ -7,7 +7,7 @@ sender_address = 'comisionsg.fiee@epn.edu.ec'
 sender_pass = 'Acreditar2018*'
 receiver_address = ''
 text_file = "text_control.txt"
-emails_list = "base_control.csv"
+emails_list = "base_automatizacion.csv"
 
 message = MIMEMultipart()
 message['From'] = sender_address
